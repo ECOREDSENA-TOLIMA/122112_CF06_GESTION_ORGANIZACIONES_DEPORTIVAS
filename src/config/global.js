@@ -1,8 +1,9 @@
 export default {
   global: {
-    componenteFormativo: 'NOMBRE DEL COMPONENTE FORMATIVO',
-    descripcionCurso: 'BREVE DESCRIPCIÓN',
-    imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.svg'),
+    componenteFormativo: 'Programas, planes de trabajo, eventos y actividades',
+    descripcionCurso:
+      'En este componente se abordan elementos generales sobre los eventos deportivos, su concepto, clasificación y aspectos más relevantes para su planeación, en el cual se incluyen actividades para la representación gráfica y los recursos disponibles para su realización.',
+    imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
       {
@@ -31,7 +32,7 @@ export default {
       {
         nombreRuta: 'tema1',
         numero: '1',
-        titulo: 'Titulo de primer nivel',
+        titulo: 'Concepto y características del evento',
         desarrolloContenidos: true,
         subMenu: [
           {
@@ -41,18 +42,52 @@ export default {
           },
         ],
       },
-
       {
         nombreRuta: 'tema2',
         numero: '2',
-        titulo: 'Titulo de primer nivel',
+        titulo: 'Clasificación de eventos',
         desarrolloContenidos: true,
       },
       {
         nombreRuta: 'tema3',
         numero: '3',
-        titulo: 'Titulo de primer nivel',
+        titulo: 'Concepto y características de los eventos deportivos',
         desarrolloContenidos: true,
+      },
+      {
+        nombreRuta: 'tema4',
+        numero: '4',
+        titulo: 'Factores internos y externos de los eventos deportivos',
+        desarrolloContenidos: true,
+      },
+      {
+        nombreRuta: 'tema5',
+        numero: '5',
+        titulo: 'Planeación de eventos deportivos',
+        desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '5.1',
+            titulo:
+              'Elementos generales a tener en cuenta en la planeación y organización del evento',
+            hash: 't_5_1',
+          },
+          {
+            numero: '5.2',
+            titulo: 'Definición de objetivos',
+            hash: 't_5_2',
+          },
+          {
+            numero: '5.3',
+            titulo: 'Plan de actividades y representación gráfica del evento',
+            hash: 't_5_3',
+          },
+          {
+            numero: '5.4',
+            titulo: 'Recursos',
+            hash: 't_5_4',
+          },
+        ],
       },
     ],
     subMenu: [
@@ -102,31 +137,53 @@ export default {
   },
   complementario: [
     {
-      tema: '',
-      referencia: '',
-      tipo: '',
-      link: 'https://www.google.com/',
+      tema: '3. Concepto y características de los eventos deportivos',
+      referencia:
+        'INDER. (s.f.) Planeación y seguridad en eventos deportivos. INDER Medellín.',
+      tipo: 'Presentación',
+      link:
+        'https://www.inder.gov.co/sites/default/files/2018-01/organizacin%20eventos%20-%201%20junio%202017.pdf',
     },
     {
-      tema: '',
-      referencia: '',
-      tipo: '',
-      descarga: '/downloads/prueba.pdf',
+      tema: '5. Planeación de eventos deportivos',
+      referencia:
+        'Proyect Management Institute. (2008). Guía de los fundamentos para la dirección de proyectos (Guía del PMBOK).',
+      tipo: 'Libro',
+      link:
+        'https://www.sadamweb.com.ar/news/2016_08Agosto/Guia_Fundamentos_para_la_Direccion_de_Proyectos-4ta_Edicion.pdf?PMBOX=http://www.sadamweb.com.ar/news/2016_08Agosto/Guia_Fundamentos_para_la_Direccion_de_Proyectos-4ta_Edicion.pdf',
     },
   ],
   glosario: [
     {
-      termino: 'Término',
-      significado: 'Texto de la definición',
+      termino: 'Evento',
+      significado:
+        'acontecimiento único, especial e irrepetible programado para satisfacer las necesidades de las partes interesadas.',
     },
     {
-      termino: '<em>Término con extranjerismo</em>',
-      significado: 'Definición',
+      termino: 'Evento deportivo',
+      significado:
+        'acontecimiento único, especial e irrepetible relacionado al sector deporte, con diferentes fines desde la promoción deportiva, fomento de la práctica deportiva u otras organizaciones patrocinadoras que emplean el deporte simplemente como un instrumento para promocionar sus marcas.',
+    },
+    {
+      termino: 'Planificación estratégica',
+      significado:
+        'proceso en que analizan el entorno en que se desenvuelve los colaboradores de una organización, fijando objetivos a mediano y largo plazo, que les permita generar estabilidad.',
     },
   ],
   referencias: [
     {
-      referencia: '',
+      referencia:
+        'Aguilar-Rivera, N. (2012). Paradigma de la diversificación de la agroindustria azucarera de México. <em>Convergencia</em>, 19 (59), 187-213.',
+      link: '',
+    },
+    {
+      referencia:
+        'IPMA. International Project Management Association (2006). ICB Competence Baseline Version 3.0 Zurich: IPMA.',
+      link: '',
+    },
+    {
+      referencia:
+        'PMI, Project Management Institute (2008). Organizational Project Management Maturity Model. Project Management Institute.',
       link: '',
     },
   ],
@@ -140,10 +197,10 @@ export default {
           centro: 'Dirección General',
         },
         {
-          nombre: 'Rafael Neftalí Lizcano Reyes',
-          cargo: 'Responsable de Línea de Producción',
+          nombre: 'Liliana Victoria Morales Guadrón',
+          cargo: 'Responsable Línea de Producción Distrito Capital',
           centro:
-            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
+            'Regional Distrito Capital - Centro de gestión de mercados, Logística y Tecnologías de la información',
         },
       ],
     },
@@ -151,10 +208,37 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Nombre del rol',
+          nombre: 'Camilo Andrés Aramburo Parra',
+          cargo: 'Experto Temático',
+          centro: 'Centro de servicios de salud',
+        },
+        {
+          nombre: 'Paola Andrea Quintero Aguilar',
+          cargo: 'Diseñadora instruccional',
+          centro: 'Regional Bogotá, Centro de Gestión Industrial',
+        },
+        {
+          nombre: 'Carolina Coca Salazar',
+          cargo: 'Revisora Metodológica y Pedagógica',
+          centro: 'Regional Distrito Capital- Centro de Diseño y Metrología',
+        },
+        {
+          nombre: 'Jhon Jairo Rodríguez Pérez',
+          cargo: 'Diseñador y evaluador instruccional',
           centro:
-            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
+            'Regional Distrito Capital – Centro para la Industria de la Comunicación Gráfica',
+        },
+        {
+          nombre: 'Gloria Lida Alzate Suarez',
+          cargo: 'Adecuador Instruccional',
+          centro:
+            'Regional Distrito Capital - Centro de gestión de mercados, Logística y Tecnologías de la información',
+        },
+        {
+          nombre: 'Alix Cecilia Chinchilla Rueda',
+          cargo: 'Asesor Metodológico',
+          centro:
+            'Regional Distrito Capital - Centro de gestión de mercados, Logística y Tecnologías de la información',
         },
       ],
     },
@@ -162,28 +246,34 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Nombre responsable',
+          nombre: '',
           cargo: 'Diseñador de Contenidos Digitales',
           centro:
-            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
+            'Regional Distrito Capital - Centro de gestión de mercados, Logística y Tecnologías de la información',
         },
         {
-          nombre: 'Nombre responsable',
+          nombre: '',
           cargo: 'Desarrollador Fullstack',
           centro:
-            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
+            'Regional Distrito Capital - Centro de gestión de mercados, Logística y Tecnologías de la información',
         },
         {
-          nombre: 'Nombre',
-          cargo: 'Animador y Producción audiovisual',
+          nombre: '',
+          cargo: 'Animación y Producción audiovisual',
           centro:
-            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
+            'Regional Distrito Capital - Centro de gestión de mercados, Logística y Tecnologías de la información',
         },
         {
-          nombre: 'Nombre',
-          cargo: 'Actividad Didáctica',
+          nombre: '',
+          cargo: 'Animación y Producción audiovisual',
           centro:
-            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
+            'Regional Distrito Capital - Centro de gestión de mercados, Logística y Tecnologías de la información',
+        },
+        {
+          nombre: '',
+          cargo: 'Animación y Producción audiovisual',
+          centro:
+            'Regional Distrito Capital - Centro de gestión de mercados, Logística y Tecnologías de la información',
         },
       ],
     },
@@ -194,19 +284,19 @@ export default {
           nombre: 'Zuleidy María Ruiz Torres',
           cargo: 'Validador de Recursos Educativos Digitales',
           centro:
-            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
+            'Regional Distrito Capital - Centro de gestión de mercados, Logística y Tecnologías de la información',
         },
         {
           nombre: 'Luis Gabriel Urueta Alvarez',
           cargo: 'Validador de Recursos Educativos Digitales',
           centro:
-            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
+            'Regional Distrito Capital - Centro de gestión de mercados, Logística y Tecnologías de la información',
         },
         {
           nombre: 'Daniel Ricardo Mutis Gómez',
           cargo: 'Evaluador para contenidos inclusivos y accesibles',
           centro:
-            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
+            'Regional Distrito Capital - Centro de gestión de mercados, Logística y Tecnologías de la información',
         },
       ],
     },
