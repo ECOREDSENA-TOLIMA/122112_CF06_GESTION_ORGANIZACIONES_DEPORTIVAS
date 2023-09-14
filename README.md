@@ -1,8 +1,8 @@
-# **sena-base-2021 v6.2.1**
+# **Programas, planes de trabajo, eventos y actividades**
 
 ## **Enlace GitHubPages**
 
-[https://ecored-sena.github.io/ECORED_TEMPLATE_REPO/](https://ecored-sena.github.io/ECORED_TEMPLATE_REPO/)
+[https://ecored-bogota-dc.github.io/CF6_122112_GESTION_ORGANIZACIONES_DEPORTIVAS/#/](https://ecored-bogota-dc.github.io/CF6_122112_GESTION_ORGANIZACIONES_DEPORTIVAS/#/)
 
 #
 
