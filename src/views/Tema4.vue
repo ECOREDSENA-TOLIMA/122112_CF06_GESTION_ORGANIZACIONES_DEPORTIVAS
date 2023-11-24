@@ -42,7 +42,7 @@
           .col-md-6.col-lg-6(style="place-self:center;")
             figure
               img(src='@/assets/curso/tema4/4.svg')
-      .py-4.py-md-5(titulo="Factores internos" :icono="require('@/assets/curso/tema4/3.svg')")
+      .py-4.py-md-5(titulo="Factores externos" :icono="require('@/assets/curso/tema4/3.svg')")
         .row.col-xl-10.m-auto
           .col-md-6.col-lg-6.mb-4.mb-md-0(style="place-self:center;")
             ul.lista-ul

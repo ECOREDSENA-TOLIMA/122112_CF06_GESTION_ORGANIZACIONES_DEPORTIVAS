@@ -85,13 +85,13 @@
           .col-8
             img(src='@/assets/curso/tema2/12.png')
         h5.text-center Eventos responsables
-        p La política de responsabilidad corporativa cobra gran importancia en el diseño. Son eventos pensados para una mayor notoriedad de la empresa, marca y para trasladar el compromiso de la misma con la sociedad.
+        p La política de responsabilidad corporativa cobra gran importancia en el diseño del mismo. Son eventos pensados para una mayor notoriedad de la empresa, marca y para trasladar el compromiso de la misma con la sociedad.
       .tarjeta.color-acento-botones.p-4(style="background-color:#FFCA00;")
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/tema2/13.png')
         h5.text-center Eventos sostenibles
-        p Eventos con claro objetivo de respeto y cuidado al medio ambiente, pueden adoptar cualquiera de los formatos que se incluyen en esta lista.
+        p Eventos con claro objetivo de respeto y cuidado al medio ambiente.
       .tarjeta.color-acento-botones.p-4(style="background-color:#FFCA00;")
         .row.justify-content-center.mb-3
           .col-8
