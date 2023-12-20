@@ -18,7 +18,7 @@
               p.fw-bold.mb-0 Campos y Fuente (2013).
       .col-lg-5(data-aos="fade-left")
         figure
-          img(src="@/assets/curso/tema1/1.png")
+          img(src="@/assets/curso/tema1/1.png" alt="Imagen decorativa")
     
     p.mt-5(data-aos="fade-right") Es decir, un evento al ser masivo y contar con la participación de un gran número de personas y medios de comunicación, es una perfecta oportunidad para que una organización o marca, difunda, promueva y en general comunique lo que desee transmitir o dar a conocer.
     p.mt-4(data-aos="fade-left") Antes de incursionar en el tema de planeación de eventos deportivos, se comenzará definiendo el término evento. Los eventos independientemente de su tamaño, propósito y contexto tienen características comunes como lo son:
@@ -28,28 +28,28 @@
         .row
           .col-lg-4.mb-4.mb-lg-0.col-md-6(style="place-self:center;")
             figure
-              img(src="@/assets/curso/tema1/2.png")
+              img(src="@/assets/curso/tema1/2.png" alt="Imagen decorativa")
           .col-lg-8.col-md-6(style="place-self:center;")
             p.mb-0 Intervienen grandes cantidades de personas, incluyendo principalmente los usuarios o clientes principales del evento, espectadores, patrocinadores, proveedores y entre otras posibles partes interesadas en el evento. 
       .tarjeta.color-acento-botones.p-4(titulo="Temporales" style="background-color:#FFFAE5;")
         .row
           .col-lg-4.mb-4.mb-lg-0.col-md-6(style="place-self:center;")
             figure
-              img(src="@/assets/curso/tema1/3.png")
+              img(src="@/assets/curso/tema1/3.png" alt="Imagen decorativa")
           .col-lg-8.col-md-6(style="place-self:center;")
             p.mb-0 Todo evento tiene un principio y un final. Pueden ser tan cortos con una duración de horas y tan largos con una duración de meses. 
       .tarjeta.color-acento-botones.p-4(titulo="Acontecimiento especial" style="background-color:#FFFAE5;")
         .row
           .col-lg-4.mb-4.mb-lg-0.col-md-6(style="place-self:center;")
             figure
-              img(src="@/assets/curso/tema1/4.png")
+              img(src="@/assets/curso/tema1/4.png" alt="Imagen decorativa")
           .col-lg-8.col-md-6(style="place-self:center;")
             p.mb-0 Un evento requiere ser especial y diferente a lo que generalmente se hace desde sus medios, contenidos, presentación, para captar el interés de las partes interesadas.
       .tarjeta.color-acento-botones.p-4(titulo="De índole social" style="background-color:#FFFAE5;")
         .row
           .col-lg-4.mb-4.mb-lg-0.col-md-6(style="place-self:center;")
             figure
-              img(src="@/assets/curso/tema1/5.png")
+              img(src="@/assets/curso/tema1/5.png" alt="Imagen decorativa")
           .col-lg-8.col-md-6(style="place-self:center;")
             p.mb-0 El enfoque principal del evento ya sea en personas o no (como en exposiciones caninas, jornadas de vacunación felina, exposiciones ecuestres, donde no son el foco), atraerá a un sector de la sociedad.
     

@@ -7,7 +7,7 @@
     .row.justify-content-center
       .col-lg-10.mb-5
         figure
-          img(src="@/assets/curso/sintesis.svg", alt="alt")
+          img(src="@/assets/curso/sintesis.svg", alt="la sintesis resume los temas abordados a lo largo del componente formativo, como es la planeación de los eventos deportivos y lo que se debe contemplar en su organización, otro tema importante los factores internos y externos que sedeben tener en cuenta, el concepto, caracterísicas y calsificación de los eventos, lo que esto genera y promueve, entre otros temas importartes y necesarios para alcanzar el resultado de aprendizaje propuesto para este componente formativo.")
       .col-auto
         a.anexo.mb-5(:href="obtenerLink('/downloads/sintesis.pdf')" target="_blank")
           .anexo__icono

@@ -8,7 +8,7 @@
       h1 Factores internos y externos de los eventos deportivos
     
     figure
-      img(src="@/assets/curso/tema4/1.png" data-aos="zoom-in-up")
+      img(src="@/assets/curso/tema4/1.png" data-aos="zoom-in-up" alt="Imagen decorativa")
     
     p.mt-5.text-center(data-aos="zoom-in") Los eventos deportivos presentan factores internos y externos que inciden en ellos y deberán ser contemplados al momento de planear el evento.
     p.mt-4.fw-bold.text-center(data-aos="zoom-in") Observe a continuación, estos factores:
@@ -41,7 +41,7 @@
                 | Factor de incertidumbre.
           .col-md-6.col-lg-6(style="place-self:center;")
             figure
-              img(src='@/assets/curso/tema4/4.svg')
+              img(src='@/assets/curso/tema4/4.svg' alt="Imagen decorativa")
       .py-4.py-md-5(titulo="Factores externos" :icono="require('@/assets/curso/tema4/3.svg')")
         .row.col-xl-10.m-auto
           .col-md-6.col-lg-6.mb-4.mb-md-0(style="place-self:center;")
@@ -84,7 +84,7 @@
                 div #[em "Stakeholders"] (partes interesadas).
           .col-md-6.col-lg-6(style="place-self:center;")
             figure
-              img(src='@/assets/curso/tema4/5.svg')
+              img(src='@/assets/curso/tema4/5.svg' alt="Imagen decorativa")
 
 
 

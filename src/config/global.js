@@ -34,13 +34,6 @@ export default {
         numero: '1',
         titulo: 'Concepto y características del evento',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            numero: '1.1',
-            titulo: 'Titulo de segundo nivel',
-            hash: 't_1_1',
-          },
-        ],
       },
       {
         nombreRuta: 'tema2',
@@ -146,7 +139,7 @@ export default {
     {
       tema: '5. Planeación de eventos deportivos',
       referencia:
-        'Proyect Management Institute. (2008). Guía de los fundamentos para la dirección de proyectos (Guía del PMBOK).',
+        'Proyect Management Institute. (2008). <em>Guía de los fundamentos para la dirección de proyectos</em> (Guía del PMBOK).',
       tipo: 'Libro',
       link:
         'https://www.sadamweb.com.ar/news/2016_08Agosto/Guia_Fundamentos_para_la_Direccion_de_Proyectos-4ta_Edicion.pdf?PMBOX=http://www.sadamweb.com.ar/news/2016_08Agosto/Guia_Fundamentos_para_la_Direccion_de_Proyectos-4ta_Edicion.pdf',
@@ -259,12 +252,6 @@ export default {
         {
           nombre: 'Luis Jesús Pérez Madariaga',
           cargo: 'Desarrollo Fullstack',
-          centro:
-            'Centro de Gestión De Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
-        },
-        {
-          nombre: '',
-          cargo: 'Animación y Producción audiovisual',
           centro:
             'Centro de Gestión De Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
         },

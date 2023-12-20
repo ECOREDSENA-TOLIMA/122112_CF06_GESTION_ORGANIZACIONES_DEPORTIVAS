@@ -10,9 +10,9 @@
     .row
       .col-lg-4.mb-4.mb-lg-0.col-md-6(data-aos="fade-right")
         figure
-          img(src="@/assets/curso/tema3/1.png")
+          img(src="@/assets/curso/tema3/1.png" alt="Imagen decorativa")
       .col-lg-8(data-aos="fade-left")
-        p Los eventos del sector deportivo son particulares, reconocidos a nivel mundial y de gran relevancia para toda la humanidad. Es quizás el sector de mayor impacto en la sociedad por su capacidad de movilizar, transformar e integrar personas masivamente. Este interés por el deporte se debe a la gran capacidad de generar emociones en sus practicantes y espectadores como difícilmente lo puede lograr otro sector, a tal punto que los eventos de esta índole no se limitan a las organizaciones deportivas, sino que también son empleadas por marcas y organizaciones de otros sectores con el fin de promocionar sus productos y alcanzar sus objetivos.
+        p Los eventos del sector deportivo son particulares, reconocidos a nivel mundial y de gran relevancia para toda la humanidad. Es quizás el sector de mayor impacto en la sociedad por su capacidad de movilizar, transformar e integrar personas masivamente. Este interés por el deporte se debe a la gran capacidad de generar emociones en sus practicantes y espectadores, como difícilmente lo puede lograr otro sector, a tal punto que los eventos de esta índole no se limitan a las organizaciones deportivas, sino que también son empleadas por marcas y organizaciones de otros sectores con el fin de promocionar sus productos y alcanzar sus objetivos.
         .cajon.mt-4.p-4.color-primario(style="background-color:#E0F4FE;")
           p.mb-0 Los eventos deportivos son tan amplios como el deporte mismo y abarca todos los componentes de su clasificación: deportes individuales, deportes colectivos; deporte recreativo, deporte competitivo, deporte formativo, entre otros.
     
@@ -29,12 +29,12 @@
     .cont_3_1.mt-4
       .col-xl-8.m-auto.col-lg-10
         figure
-          img(src="@/assets/curso/tema3/4.svg" data-aos="zoom-in-up")
+          img(src="@/assets/curso/tema3/4.svg" data-aos="zoom-in-up" alt="Imagen decorativa")
     
     .row.mt-5
       .col-lg-4.mb-4.mb-md-0.col-md-6(data-aos="fade-right")
         figure
-          img(src="@/assets/curso/tema3/5.png")
+          img(src="@/assets/curso/tema3/5.png" alt="Imagen que muestra en millones de dólares lo pagado por diferentes marcas para los eventos deportivos más importantes en el año 2017.")
       .col-lg-8.col-md-6(data-aos="fade-left")
         p Eventos como el Súper #[em Bowl], que corresponde a la final del fútbol americano, es el evento que más transacciones e impacto económico genera en el mundo del deporte. Las franjas comerciales que pautan en el partido son las más costosas, pero a su vez genera más exhibición para las marcas patrocinadoras. 
         .cajon.mt-4.p-4.color-primario(style="background-color:#E9EDFF;")
@@ -64,23 +64,23 @@
       .row.justify-content-center
         .col-lg.col-md-6.mb-4.mb-lg-0(data-aos="zoom-in-up")
           figure.text-center
-            img.m-auto(src="@/assets/curso/tema3/6.png" style="max-width:200px;")
+            img.m-auto(src="@/assets/curso/tema3/6.png" style="max-width:200px;" alt="Imagen decorativa")
           p.fw-bold.text-center.text-small Masivos
         .col-lg.col-md-6.mb-4.mb-lg-0(data-aos="zoom-in-up")
           figure.text-center
-            img.m-auto(src="@/assets/curso/tema3/7.png" style="max-width:200px;")
+            img.m-auto(src="@/assets/curso/tema3/7.png" style="max-width:200px;" alt="Imagen decorativa")
           p.fw-bold.text-center.text-small Competencia
         .col-lg.col-md-6.mb-4.mb-lg-0(data-aos="zoom-in-up")
           figure.text-center
-            img.m-auto(src="@/assets/curso/tema3/8.png" style="max-width:200px;")
+            img.m-auto(src="@/assets/curso/tema3/8.png" style="max-width:200px;" alt="Imagen decorativa")
           p.fw-bold.text-center.text-small Requerimiento del deportista
         .col-lg.col-md-6.mb-4.mb-lg-0(data-aos="zoom-in-up")
           figure.text-center
-            img.m-auto(src="@/assets/curso/tema3/9.png" style="max-width:200px;")
+            img.m-auto(src="@/assets/curso/tema3/9.png" style="max-width:200px;" alt="Imagen decorativa")
           p.fw-bold.text-center.text-small Condiciones mínimas para la práctica deportiva
         .col-lg.col-md-6.mb-4.mb-lg-0(data-aos="zoom-in-up")
           figure.text-center
-            img.m-auto(src="@/assets/curso/tema3/10.png" style="max-width:200px;")
+            img.m-auto(src="@/assets/curso/tema3/10.png" style="max-width:200px;" alt="Imagen decorativa")
           p.fw-bold.text-center.text-small Expectativas, deseos y requerimientos del espectador
     
     p.mt-5.fw-bold.text-center(data-aos="zoom-in-up") Así mismo, se deberán contemplar aspectos como: 
