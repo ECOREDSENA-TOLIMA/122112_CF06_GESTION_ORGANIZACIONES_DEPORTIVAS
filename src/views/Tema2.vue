@@ -17,7 +17,7 @@
         br
         | El tipo de evento lo va a definir el objetivo y propósito que este tenga, cuál es el fin que se pretende, y qué se desea comunicar. 
     
-    p.mt-5.fw-bold.text-center(data-aos="zoom-in-up") A continuación, se presenta la clasificación de eventos propuestos por campos y fuente:
+    p.mt-5.fw-bold(data-aos="zoom-in-up") A continuación, se presenta la clasificación de eventos propuestos por Campos y Fuente:
 
     SlyderF.mt-5(columnas="col-lg-6 col-xl-4")
       .tarjeta.color-acento-botones.p-4(style="background-color:#FFCA00;")
@@ -111,7 +111,7 @@
         h5.text-center Eventos de patrocinio 
         p Son aquellos que financian, en su totalidad o en parte, las empresas o las marcas concretas, aunque pueden adoptar distintos formatos, por ejemplo, un festival de música patrocinado por una marca de cervezas.
     
-    p.mt-5.text-center(data-aos="zoom-in-up") Luego de tener claridad sobre el concepto de eventos y su clasificación, se incursionará en el concepto de eventos deportivos.
+    p.mt-5.text-center(data-aos="fade-left") Luego de tener claridad sobre el concepto de eventos y su clasificación, se incursionará en el concepto de eventos deportivos.
 
 
 

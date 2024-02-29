@@ -21,7 +21,7 @@
           img(src="@/assets/curso/tema1/1.png" alt="Imagen decorativa")
     
     p.mt-5(data-aos="fade-right") Es decir, un evento al ser masivo y contar con la participación de un gran número de personas y medios de comunicación, es una perfecta oportunidad para que una organización o marca, difunda, promueva y en general comunique lo que desee transmitir o dar a conocer.
-    p.mt-4(data-aos="fade-left") Antes de incursionar en el tema de planeación de eventos deportivos, se comenzará definiendo el término evento. Los eventos independientemente de su tamaño, propósito y contexto tienen características comunes como lo son:
+    p.mt-4(data-aos="fade-left") Antes de incursionar en el tema de planeación de eventos deportivos, se comenzará definiendo el término evento. Los eventos independientemente de su tamaño, propósito y contexto, tienen características comunes como lo son:
 
     TabsA.color-acento-contenido.mt-5
       .tarjeta.color-acento-botones.p-4(titulo="Masivos" style="background-color:#FFFAE5;")
@@ -59,7 +59,7 @@
           table
             thead(style="border:0;")
               tr
-                th.p-4.text-white(colspan="2" style="background-color:#2D54FE;") Teniendo en cuenta estas características, se abordará el concepto del evento que aportan diferentes autores:
+                td.p-4.text-white(colspan="2" style="background-color:#2D54FE;") Teniendo en cuenta estas características, se abordará el concepto del evento que aportan diferentes autores:
             tbody
               tr.bg-white
                 td.p-4 Los eventos son acontecimientos especiales, “iniciativas, sucesos y/o hechos de distinta índole y naturaleza, de presencia pública, promovidos y/o realizados por organizaciones fuera de su dinámica habitual para conseguir distintos objetivos” (Arnaldi,1968, p.84).

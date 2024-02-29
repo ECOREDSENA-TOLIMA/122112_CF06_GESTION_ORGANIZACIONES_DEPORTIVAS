@@ -11,7 +11,7 @@
       img(src="@/assets/curso/tema4/1.png" data-aos="zoom-in-up" alt="Imagen decorativa")
     
     p.mt-5.text-center(data-aos="zoom-in") Los eventos deportivos presentan factores internos y externos que inciden en ellos y deberán ser contemplados al momento de planear el evento.
-    p.mt-4.fw-bold.text-center(data-aos="zoom-in") Observe a continuación, estos factores:
+    p.mt-4.fw-bold(data-aos="zoom-in") Analice a continuación, estos factores:
 
     TabsB.color-acento-contenido.mt-4
       .py-4.py-md-5(titulo="Factores internos" :icono="require('@/assets/curso/tema4/2.svg')")

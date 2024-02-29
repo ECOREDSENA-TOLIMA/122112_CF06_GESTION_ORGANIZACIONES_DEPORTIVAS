@@ -37,7 +37,7 @@
           img.m-auto(src="@/assets/curso/tema5/3.png" style="max-width:400px;" alt="Imagen decorativa")
       .col-lg-8(data-aos="fade-left")
         LineaTiempoD.color-acento-contenido
-          p.text-small(numero="1" titulo="Definición de objetivos y metas") Es esencial establecer metas y propósito claros para un evento. Definir objetivos adecuados orienta al equipo hacia su logro. Ejemplo: "La Esencia 2021", maratón con 500 atletas inscritos, busca impulsar al equipo y aumentar inscripciones en un 20%, así como las ventas en un 20% mediante el posicionamiento de la marca localmente.
+          p.text-small(numero="1" titulo="Definición de objetivos y metas") Es esencial establecer metas y propósito claros para un evento. Definir objetivos adecuados orienta al equipo hacia su logro. Ejemplo: "La Esencia 2021", maratón con 500 atletas inscritos, busca impulsar al equipo y aumentar inscripciones en un 20 %, así como las ventas en un 20 % mediante el posicionamiento de la marca localmente.
           p.text-small(numero="2" titulo="Propuesta de evento y características técnicas") En este punto, se decide de forma general cómo sería el evento enfocado en el cumplimiento de los objetivos, especificaciones técnicas, categorías, entre otros. Ejemplo: carrera distribuida en 2 distancias (maratón y media maratón), con cada una de las categorías conforme a la Federación Internacional de Atletismo. Premiación para las 3 primeras personas en cada categoría y distancia.
           p.text-small(numero="3" titulo="Duración del evento") La duración y complejidad pueden variar en función del tiempo, que puede ser de horas, días, semanas o meses. Ejemplo: el evento tendrá una duración de 6 horas: 1 hora previa al inicio del evento para el alistamiento logístico, 4 horas de duración de la carrera y 1 hora posterior para la premiación y acciones logísticas de cierre.
           p.text-small(numero="4" titulo="Lugar del evento") Será el sitio locativo en donde se desenvolverá el evento. Ejemplo: el evento se realizará en el sector de Llano Grande municipio de Rionegro Antioquia.
@@ -45,10 +45,13 @@
           p.text-small(numero="6" titulo="Clientes del evento") Se debe tener claridad sobre la población objeto del evento, sus necesidades, requerimientos, deseos y expectativas para poder satisfacerlos. Ejemplo: carrera dirigida a personas entre 15 a 70 años.
           p.text-small(numero="7" titulo="Viabilidad del evento") La viabilidad del evento se evalúa considerando fuentes de financiamiento, costos y retorno de inversión. Ejemplo de financiamiento: Propio: la marca aportará recursos para premios y personal logístico. Marcas de ropa y comida apoyarán en hidratación y premios.
     
-    p.mt-5.fw-bold.text-center(data-aos="zoom-in") Por lo tanto, para planear un evento se deberá tener claridad en los siguientes puntos:
+    p.mt-5.fw-bold(data-aos="zoom-in") Por lo tanto, para planear un evento se deberá tener claridad en los siguientes puntos:
 
     .cont_5_1.mt-4.pb-5
       .col-xl-8.m-auto.col-lg-10
+        .titulo-sexto.color-acento-contenido(data-aos="fade-right")
+          h5 Figura 2.
+          span Planeación de un evento
         figure
           img(src="@/assets/curso/tema5/5.svg" data-aos="zoom-in-up" alt="Imagen decorativa")
 
@@ -90,7 +93,7 @@
       .bloque-texto-g__texto.p-4
         p.mb-0 La definición de los objetivos es una de las partes más importantes en la planeación. Los objetivos deberán recopilar las necesidades, las expectativas y los deseos de cada una de las partes interesadas en el evento para plantear un resultado esperado que solucione estos requerimientos. Así mismo, en el momento de definir los objetivos se deberá contar con la participación del equipo de trabajo, con el fin de tener más motivación y sentido de pertenencia para desear alcanzarlos.
     
-    p.mt-5.fw-bold.text-center(data-aos="zoom-in") A continuación, se describen algunas características que deben cumplir los objetivos:
+    p.mt-5.fw-bold(data-aos="zoom-in") A continuación, se describen algunas características que deben cumplir los objetivos:
 
     .row.mt-5
       .col-lg-4.mb-4.mb-md-0.col-md-6(data-aos="fade-right")
@@ -220,7 +223,7 @@
             p.mt-4.text-center.fw-bold Los recursos intangibles
             p Se incluyen los recursos humanos y no humanos. Los primeros son los pertenecientes al capital humano de la organización que aportan conocimiento, experiencia, entrenamiento, lealtad, motivación, capacidad de adaptación y habilidad de razonamiento. Mientras que los recursos intangibles no humanos corresponden a los recursos tecnológicos que permiten fabricar o mejorar productos y servicios de la organización.
       
-      p.mt-5.fw-bold(data-aos="zoom-in") De acuerdo con lo anterior, al planear un evento, lo más común en diferentes tipos de proyectos es desglosar los recursos en: humanos, locativos, tecnológicos, financieros y materiales.
+      p.mt-5(data-aos="zoom-in") De acuerdo con lo anterior, al planear un evento, lo más común en diferentes tipos de proyectos es desglosar los recursos en: humanos, locativos, tecnológicos, financieros y materiales.
 
     SlyderF.mt-5(columnas="col-lg-6 col-xl-4")
       .tarjeta.color-acento-botones.p-4(style="background-color:#FFCA00;")

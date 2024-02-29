@@ -25,10 +25,12 @@
     
     p.mt-5(data-aos="fade-right") El impacto de las marcas deportivas es el más conocido en el mundo, este recauda millones de dólares al año, y difícilmente se puede comparar con eventos de otros sectores. A continuación, se evidencia el impacto económico que generan los eventos deportivos en el mundo para el año 2017. 
 
-    p.mt-5.fw-bold.text-center(data-aos="zoom-in") Marcas de eventos deportivos más valiosas del mundo en 2017
     .cont_3_1.mt-4
       .col-xl-8.m-auto.col-lg-10
-        figure
+        .titulo-sexto.color-acento-contenido(data-aos="fade-right")
+          h5 Figura 1.
+          span Marcas de eventos deportivos más valiosas del mundo en 2017
+        figure(data-aos="zoom-in")
           img(src="@/assets/curso/tema3/4.svg" data-aos="zoom-in-up" alt="Imagen decorativa")
     
     .row.mt-5
@@ -58,7 +60,7 @@
             .text-end.mt-3
               p.fw-bold.mb-0 Martin (1996).
     
-    p.mt-5.fw-bold.text-center(data-aos="zoom-in-up") Los eventos deportivos son particulares y a su vez complejos, por lo que la organización encargada de planear el evento deberá contemplar las siguientes características:
+    p.mt-5(data-aos="zoom-in-up") Los eventos deportivos son particulares y a su vez complejos, por lo que la organización encargada de planear el evento deberá contemplar las siguientes características:
 
     .col-xl-10.m-auto.mt-5
       .row.justify-content-center
@@ -83,7 +85,7 @@
             img.m-auto(src="@/assets/curso/tema3/10.png" style="max-width:200px;" alt="Imagen decorativa")
           p.fw-bold.text-center.text-small Expectativas, deseos y requerimientos del espectador
     
-    p.mt-5.fw-bold.text-center(data-aos="zoom-in-up") Así mismo, se deberán contemplar aspectos como: 
+    p.mt-5(data-aos="zoom-in-up") Así mismo, se deberán contemplar aspectos como: 
 
     .row.mt-5
       .col-lg.mb-4.mb-lg-0
