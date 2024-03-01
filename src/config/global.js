@@ -166,17 +166,29 @@ export default {
     {
       referencia:
         'Aguilar-Rivera, N. (2012). Paradigma de la diversificación de la agroindustria azucarera de México. <em>Convergencia</em>, 19 (59), 187-213.',
-      link: '',
     },
     {
       referencia:
         'IPMA. International Project Management Association (2006). ICB Competence Baseline Version 3.0 Zurich: IPMA.',
-      link: '',
     },
     {
       referencia:
         'PMI, Project Management Institute (2008). Organizational Project Management Maturity Model. Project Management Institute.',
-      link: '',
+    },
+    {
+      referencia:
+        'Campos, P., y Fuente, E. (2013). Los eventos en el ámbito de la empresa. Hacia una definición y clasificación. Recuperado de',
+      link: 'https://dialnet.unirioja.es/descarga/articulo/4615244.pdf',
+    },
+    {
+      referencia:
+        'Gresser, C., y Bessy, O. (1999). Organización de eventos deportivos y gestión de proyectos: Factores, fases y áreas. Recuperado de',
+      link: 'https://www.redalyc.org/pdf/542/54222133010.pdf',
+    },
+    {
+      referencia:
+        'Blázquez, M., y Mondino, A. (2012). Recursos organizacionales: Concepto, clasificación e indicadores. Recuperado de',
+      link: 'http://www.cyta.com.ar/ta1101/v11n1a3.htm',
     },
   ],
   creditos: [

@@ -31,7 +31,7 @@
           h5 Figura 1.
           span Marcas de eventos deportivos más valiosas del mundo en 2017
         figure(data-aos="zoom-in")
-          img(src="@/assets/curso/tema3/4.svg" data-aos="zoom-in-up" alt="Imagen decorativa")
+          img(src="@/assets/curso/tema3/4.svg" data-aos="zoom-in-up" alt="En la figura 1 se muestran las marcas de eventos deportivos más valiosos del mundo en 2017.")
     
     .row.mt-5
       .col-lg-4.mb-4.mb-md-0.col-md-6(data-aos="fade-right")
