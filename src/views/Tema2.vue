@@ -17,7 +17,7 @@
         br
         | El tipo de evento lo va a definir el objetivo y propósito que este tenga, cuál es el fin que se pretende, y qué se desea comunicar. 
     
-    p.mt-5.fw-bold(data-aos="zoom-in-up") A continuación, se presenta la clasificación de eventos propuestos por Campos y Fuente:
+    p.mt-5.fw-bold(data-aos="zoom-in-up") A continuación, se presenta la clasificación de eventos propuestos por Campos y Fuente 2013:
 
     SlyderF.mt-5(columnas="col-lg-6 col-xl-4")
       .tarjeta.color-acento-botones.p-4(style="background-color:#FFCA00;")

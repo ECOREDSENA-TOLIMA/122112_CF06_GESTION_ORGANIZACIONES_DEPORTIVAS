@@ -45,15 +45,15 @@
           p.text-small(numero="6" titulo="Clientes del evento") Se debe tener claridad sobre la población objeto del evento, sus necesidades, requerimientos, deseos y expectativas para poder satisfacerlos. Ejemplo: carrera dirigida a personas entre 15 a 70 años.
           p.text-small(numero="7" titulo="Viabilidad del evento") La viabilidad del evento se evalúa considerando fuentes de financiamiento, costos y retorno de inversión. Ejemplo de financiamiento: Propio: la marca aportará recursos para premios y personal logístico. Marcas de ropa y comida apoyarán en hidratación y premios.
     
-    p.mt-5.fw-bold(data-aos="zoom-in") Por lo tanto, para planear un evento se deberá tener claridad en los siguientes puntos:
+    p.mt-5(data-aos="zoom-in") Por lo tanto, para planear un evento se deberá tener claridad en los siguientes puntos:
 
     .cont_5_1.mt-4.pb-5
       .col-xl-8.m-auto.col-lg-10
         .titulo-sexto.color-acento-contenido(data-aos="fade-right")
           h5 Figura 2.
-          span Planeación de un evento
+          i Planeación de un evento
         figure
-          img(src="@/assets/curso/tema5/5.svg" data-aos="zoom-in-up" alt="Imagen decorativa")
+          img(src="@/assets/curso/tema5/5.svg" data-aos="zoom-in-up" alt="En la figura 2 se muestran las preguntas que se deben formular para planear un evento.")
 
     p.mt-5(data-aos="fade-right") Anteriormente, se relacionaron varios puntos importantes para la planeación de un evento. Se inicia, incorporando las necesidades, requerimientos y expectativas del cliente, espectadores, equipo proyectista, patrocinadores, y demás partes interesadas. Con esta información, se establecen los objetivos y metas a alcanzar con el evento. Es preciso tener en cuenta, un principio fundamental para medir que un proyecto sea exitoso, el cual será el de cumplir con la satisfacción del cliente y demás partes interesadas. El evento, entendido como un proyecto deberá cumplir esta misma premisa.
 
@@ -206,7 +206,7 @@
     .titulo-segundo
       h2#t_5_4 5.4 Recursos 
     
-    p(data-aos="fade-right") Los recursos, definidos por Navas y Guerras (2002), como el conjunto de factores o activos de los que dispone una empresa para llevar a cabo su estrategia, son siempre limitados y fundamentales para la ejecución del evento, deberán ser planeados, gestionados y adecuadamente controlados. Un evento que no cuente con los recursos, o sus costos superen los recursos disponibles no será viable su ejecución. Por lo tanto, el líder del evento tendrá que gestionar la consecución de recursos para financiar el evento y además, optimizar los disponibles. A continuación, se encuentran la clasificación de los recursos.
+    p(data-aos="fade-right") Los recursos, definidos por Navas y Guerras (2002), como "el conjunto de factores o activos de los que dispone una empresa para llevar a cabo su estrategia", son siempre limitados y fundamentales para la ejecución del evento, deberán ser planeados, gestionados y adecuadamente controlados. Un evento que no cuente con los recursos, o sus costos superen los recursos disponibles no será viable su ejecución. Por lo tanto, el líder del evento tendrá que gestionar la consecución de recursos para financiar el evento y además, optimizar los disponibles. A continuación, se encuentran la clasificación de los recursos.
 
     .col-xl-10.m-auto.mt-5
       .row
