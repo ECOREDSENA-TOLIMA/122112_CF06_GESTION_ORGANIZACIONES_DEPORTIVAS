@@ -49,7 +49,7 @@
           .col-8
             img(src='@/assets/curso/tema2/6.png' alt="Imagen decorativa")
         h5.text-center Eventos institucionales
-        p Inauguraciones, jornada puertas abierta, visitas instalaciones, eventos públicos.
+        p Inauguraciones, jornada puertas abierta, visitas a instalaciones, eventos públicos.
       .tarjeta.color-acento-botones.p-4(style="background-color:#FFCA00;")
         .row.justify-content-center.mb-3
           .col-8
@@ -61,7 +61,7 @@
           .col-8
             img(src='@/assets/curso/tema2/8.png' alt="Imagen decorativa")
         h5.text-center Eventos comerciales
-        p Dentro de esta categoría, pueden encuadrarse también las ferias, ya sean organizadas por la empresa o la asistencia a las mismas.
+        p Dentro de esta categoría, pueden encuadrarse también las ferias, ya sean organizadas por la empresa, o bien, la asistencia a las mismas.
       .tarjeta.color-acento-botones.p-4(style="background-color:#FFCA00;")
         .row.justify-content-center.mb-3
           .col-8
@@ -73,25 +73,25 @@
           .col-8
             img(src='@/assets/curso/tema2/10.png' alt="Imagen decorativa")
         h5.text-center Eventos protocolarios 
-        p Marcados por la asistencia de personalidades del ámbito político, tanto de las instituciones del estado, como del ámbito internacional.
+        p Marcados por la asistencia de personalidades del ámbito político, tanto de las instituciones del Estado, como del ámbito internacional.
       .tarjeta.color-acento-botones.p-4(style="background-color:#FFCA00;")
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/tema2/11.png' alt="Imagen decorativa")
-        h5.text-center Eventos de incentivo 
+        h5.text-center Eventos de incentivos
         p Viaje de incentivo o eventos basados en un formato que incentive a los participantes en el mismo.
       .tarjeta.color-acento-botones.p-4(style="background-color:#FFCA00;")
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/tema2/12.png' alt="Imagen decorativa")
         h5.text-center Eventos responsables
-        p La política de responsabilidad corporativa cobra gran importancia en el diseño del mismo. Son eventos pensados para una mayor notoriedad de la empresa, marca y para trasladar el compromiso de la misma con la sociedad.
+        p La política de responsabilidad corporativa cobra gran importancia en el diseño de este. Son eventos pensados para una mayor notoriedad de la empresa, marca y para trasladar el compromiso de esta con la sociedad.
       .tarjeta.color-acento-botones.p-4(style="background-color:#FFCA00;")
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/tema2/13.png' alt="Imagen decorativa")
         h5.text-center Eventos sostenibles
-        p Eventos con claro objetivo de respeto y cuidado al medio ambiente.
+        p Estos eventos son un claro objetivo del respeto y cuidado por el medio ambiente. pueden adoptar cualquiera de los formatos que se incluyen en esta lista
       .tarjeta.color-acento-botones.p-4(style="background-color:#FFCA00;")
         .row.justify-content-center.mb-3
           .col-8

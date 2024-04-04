@@ -12,7 +12,7 @@
         figure
           img(src="@/assets/curso/tema3/1.png" alt="Imagen decorativa")
       .col-lg-8(data-aos="fade-left")
-        p Los eventos del sector deportivo son particulares, reconocidos a nivel mundial y de gran relevancia para toda la humanidad. Es quizás el sector de mayor impacto en la sociedad por su capacidad de movilizar, transformar e integrar personas masivamente. Este interés por el deporte se debe a la gran capacidad de generar emociones en sus practicantes y espectadores, como difícilmente lo puede lograr otro sector, a tal punto que los eventos de esta índole no se limitan a las organizaciones deportivas, sino que también son empleadas por marcas y organizaciones de otros sectores con el fin de promocionar sus productos y alcanzar sus objetivos.
+        p Los eventos del sector deportivo son particulares, reconocidos a nivel mundial y de gran relevancia para toda la humanidad. Es quizás el sector de mayor impacto en la sociedad por su capacidad de movilizar, transformar e integrar personas masivamente. Este interés por el deporte se debe a la gran capacidad de generar emociones en sus practicantes y espectadores, como difícilmente lo puede lograr otro sector; a tal punto que los eventos de esta índole no se limitan a las organizaciones deportivas, sino que también son empleados por marcas y organizaciones de otros sectores con el fin de promocionar sus productos y alcanzar sus objetivos.
         .cajon.mt-4.p-4.color-primario(style="background-color:#E0F4FE;")
           p.mb-0 Los eventos deportivos son tan amplios como el deporte mismo y abarca todos los componentes de su clasificación: deportes individuales, deportes colectivos; deporte recreativo, deporte competitivo, deporte formativo, entre otros.
     
@@ -23,7 +23,7 @@
       .bloque-texto-g__texto.p-4
         p.mb-0 Cuando hablamos de eventos masivos rápidamente, pensamos en eventos deportivos. Los eventos deportivos como se mencionaba anteriormente son particulares, atractivos para sus participantes, espectadores, patrocinadores y demás partes interesadas. Pero así mismo, son complejos y exigentes en su organización. 
     
-    p.mt-5(data-aos="fade-right") El impacto de las marcas deportivas es el más conocido en el mundo, este recauda millones de dólares al año, y difícilmente se puede comparar con eventos de otros sectores. A continuación, se evidencia el impacto económico que generan los eventos deportivos en el mundo para el año 2017. 
+    p.mt-5(data-aos="fade-right") El impacto de las marcas deportivas es el más conocido en el mundo, este recauda millones de dólares al año, y difícilmente se puede comparar con eventos de otros sectores. A continuación, se evidencia el impacto económico que generan los eventos deportivos en el mundo para el año 2017.
 
     .cont_3_1.mt-4
       .col-xl-8.m-auto.col-lg-10
@@ -38,7 +38,7 @@
         figure
           img(src="@/assets/curso/tema3/5.png" alt="Imagen que muestra en millones de dólares lo pagado por diferentes marcas para los eventos deportivos más importantes en el año 2017.")
       .col-lg-8.col-md-6(data-aos="fade-left")
-        p Eventos como el Súper #[em Bowl], que corresponde a la final del fútbol americano, es el evento que más transacciones e impacto económico genera en el mundo del deporte. Las franjas comerciales que pautan en el partido son las más costosas, pero a su vez genera más exhibición para las marcas patrocinadoras. 
+        p Eventos como el Súper #[em Bowl], que corresponde a la final del fútbol americano, es el evento que más transacciones e impacto económico genera en el mundo del deporte. Las franjas comerciales que pautan en el partido son las más costosas, pero a su vez, genera más exhibición para las marcas patrocinadoras. 
         .cajon.mt-4.p-4.color-primario(style="background-color:#E9EDFF;")
           p.mb-0 Acercándose al concepto de evento deportivo, como todo acontecimiento único, especial e irrepetible relacionado al sector deporte, con diferentes fines desde la promoción deportiva, fomento de la práctica deportiva u otras organizaciones patrocinadoras que emplean el deporte simplemente como un instrumento para promocionar sus marcas. 
     
@@ -93,7 +93,7 @@
           .tarjeta-numerada__numero
             .h2 1
           p.fw-bold Previo al evento
-          p Permisos para el desarrollo del evento, cumplimiento de requerimientos legales, estudios previos de viabilidad del evento, inscripción, gestión de recursos, gestión de espacios.
+          p Permisos para el desarrollo del evento, cumplimiento de requerimientos legales, estudios previos de viabilidad del evento, inscripción, gestión de recursos y gestión de espacios.
       .col-lg.mb-4.mb-lg-0
         .tarjeta-numerada.color-acento-botones.p-5.h-100(data-aos="zoom-in" style="box-shadow: 0px 0px 7px rgba(0,0,0,.25);")
           .tarjeta-numerada__numero
@@ -105,7 +105,7 @@
           .tarjeta-numerada__numero
             .h2.text-white 3
           p.fw-bold Final del evento
-          p Evaluación del evento, entrega de premios, pagos a proveedores y recursos del evento, entre otros aspectos que pueden surgir en el cierre del evento. 
+          p Evaluación del evento, entrega de premios, pagos a proveedores y recursos del evento, entre otros aspectos que pueden surgir en su cierre. 
 
 
 

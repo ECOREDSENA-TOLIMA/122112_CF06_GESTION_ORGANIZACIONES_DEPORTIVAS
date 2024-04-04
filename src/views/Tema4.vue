@@ -10,7 +10,7 @@
     figure
       img(src="@/assets/curso/tema4/1.png" data-aos="zoom-in-up" alt="Imagen decorativa")
     
-    p.mt-5.text-center(data-aos="zoom-in") Los eventos deportivos presentan factores internos y externos que inciden en ellos y deberán ser contemplados al momento de planear el evento.
+    p.mt-5.text-center(data-aos="zoom-in") Los eventos deportivos presentan factores internos y externos que inciden en ellos y deberán ser contemplados al momento de su planeación.
     p.mt-4.fw-bold(data-aos="zoom-in") Analice a continuación, estos factores:
 
     TabsB.color-acento-contenido.mt-4
@@ -51,7 +51,7 @@
                 | Factor político.
               li 
                 i.fas.fa-check(style="color:#FE502D;")
-                | Factor interés comunidad.
+                | Factor interés de la comunidad.
               li 
                 i.fas.fa-check(style="color:#FE502D;")
                 | Apoyo institucional.
