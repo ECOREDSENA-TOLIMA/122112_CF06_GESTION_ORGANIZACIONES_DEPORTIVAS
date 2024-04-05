@@ -55,7 +55,7 @@
         figure
           img(src="@/assets/curso/tema5/5.svg" data-aos="zoom-in-up" alt="En la figura 2 se muestran las preguntas que se deben formular para planear un evento.")
 
-    p.mt-5(data-aos="fade-right") Anteriormente, se relacionaron varios puntos importantesAnteriormente, se relacionaron varios puntos importantes para la planeación de un evento. Se inicia, incorporando las necesidades, requerimientos y expectativas del cliente, espectadores, equipo proyectista, patrocinadores, y demás partes interesadas. Con esta información se establecen los objetivos y metas a alcanzar con el evento. Es preciso tener en cuenta, un principio fundamental para medir que un proyecto sea exitoso, será cumplir con la satisfacción del cliente y demás partes interesadas. El evento, entendido como un proyecto deberá cumplir esta misma premisa.
+    p.mt-5(data-aos="fade-right") Anteriormente, se relacionaron varios puntos importantes para la planeación de un evento. Se inicia, incorporando las necesidades, requerimientos y expectativas del cliente, espectadores, equipo proyectista, patrocinadores, y demás partes interesadas. Con esta información se establecen los objetivos y metas a alcanzar con el evento. Es preciso tener en cuenta, un principio fundamental para medir que un proyecto sea exitoso, será cumplir con la satisfacción del cliente y demás partes interesadas. El evento, entendido como un proyecto deberá cumplir esta misma premisa.
 
     p.mt-5.fw-bold.text-center(data-aos="zoom-in") Por lo tanto, entender a fondo las necesidades y deseos de cada parte interesada, contribuirá a enfocar aún más el evento y satisfacer sus necesidades. A continuación, se presentan los intereses para algunos de los interesados en el evento:
 

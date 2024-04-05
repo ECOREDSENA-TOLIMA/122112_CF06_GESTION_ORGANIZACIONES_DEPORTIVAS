@@ -196,15 +196,14 @@ export default {
       titulo: 'ECOSISTEMA DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Claudia Patricia Aristizábal Gutiérrez',
+          nombre: 'Milady Tatiana Villamil Castellanos',
           cargo: 'Responsable del equipo',
           centro: 'Dirección General',
         },
         {
           nombre: 'Liliana Victoria Morales Gualdrón',
           cargo: 'Responsable de línea de producción',
-          centro:
-            'Centro de Gestión De Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
+          centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
       ],
     },
@@ -250,22 +249,31 @@ export default {
           centro:
             'Centro de Gestión De Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
         },
+        {
+          nombre: 'Viviana Esperanza Herrera Quiñonez',
+          cargo: 'Evaluación instruccional',
+          centro: 'Centro de Comercio y Servicios - Regional Tolima',
+        },
       ],
     },
     {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Eulises Orduz Amézquita',
+          nombre: 'Oscar Iván Uribe Ortiz',
           cargo: 'Diseñador web',
-          centro:
-            'Centro de Gestión De Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
+          centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
         {
-          nombre: 'Luis Jesús Pérez Madariaga',
+          nombre: 'Diego Fernando Velasco Güiza',
           cargo: 'Desarrollo Fullstack',
+          centro: 'Centro de Comercio y Servicios - Regional Tolima',
+        },
+        {
+          nombre: 'Ernesto Navarro Jaimes',
+          cargo: 'Animación y producción audiovisual',
           centro:
-            'Centro de Gestión De Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
+            'Centro de Gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
         },
       ],
     },
@@ -273,23 +281,19 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: 'Carolina Coca Salazar',
+          nombre: 'Norma Constanza Morales Cruz',
           cargo: 'Evaluación de contenidos inclusivos y accesibles',
-          centro:
-            'Centro de Gestión De Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
+          centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
         {
-          nombre: 'Lina Marcela Pérez Manchego',
+          nombre: 'Javier Mauricio Oviedo',
           cargo: 'Validación de recursos educativos digitales',
-          centro:
-            'Centro de Gestión De Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
+          centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
         {
-          nombre: 'Leyson Fabian Castaño Pérez',
-          cargo:
-            'Validación de recursos educativos digitales y vinculación LMS',
-          centro:
-            'Centro de Gestión De Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
+          nombre: 'Jorge Bustos Ortiz',
+          cargo: 'Validación de recursos educativos digitales',
+          centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
       ],
     },
