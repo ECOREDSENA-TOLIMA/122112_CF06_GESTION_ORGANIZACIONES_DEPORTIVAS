@@ -32,6 +32,7 @@
           i Marcas de eventos deportivos más valiosas del mundo en 2017
         figure(data-aos="zoom-in")
           img(src="@/assets/curso/tema3/4.svg" data-aos="zoom-in-up" alt="En la figura 1 se muestran las marcas de eventos deportivos más valiosos del mundo en 2017.")
+          figcaption Nota. <span style="font-weight: 400">Tomado de la revista informaBTL.</span>
     
     .row.mt-5
       .col-lg-4.mb-4.mb-md-0.col-md-6(data-aos="fade-right")
@@ -48,7 +49,7 @@
         .p-4.cont_3_2.d-flex(style="border-top:1px #FFCA00 solid;")
           i.fas.fa-quote-left.me-3(style="color:#FFCA00;font-size:28px;")
           div.mt-3
-            p.mb-0 El evento deportivo como la organización de una actividad deportiva de mayor complejidad en el seno de una institución deportiva, sea pública o privada (s.p.). #[i.fas.fa-quote-right.ms-1(style="color:#FFCA00;font-size:28px;top: 15px")]
+            p.mb-0 El evento deportivo como la organización de una actividad deportiva de mayor complejidad en el seno de una institución deportiva, sea pública o privada (p.140 ). #[i.fas.fa-quote-right.ms-1(style="color:#FFCA00;font-size:28px;top: 15px")]
             .text-end.mt-3
               p.fw-bold.mb-0 Gresser y Bessy (1999).
       .col-lg-6.mb-4.mb-lg-0(data-aos="fade-left")
@@ -56,7 +57,7 @@
         .p-4.cont_3_2.d-flex(style="border-top:1px #FFCA00 solid;")
           i.fas.fa-quote-left.me-3(style="color:#FFCA00;font-size:28px;")
           div.mt-3
-            p.mb-0 programas deportivos, es decir, como actividad física deportiva organizada que satisface a quien la consume, busca la eficiencia y que requiere las mismas fases en su construcción (diseño, desarrollo y actuación final) y las mismas áreas funcionales que cualquier programa deportivo (s.p).#[i.fas.fa-quote-right.ms-1(style="color:#FFCA00;font-size:28px;top: 15px")]
+            p.mb-0 Programas deportivos, es decir, como actividad física deportiva organizada que satisface a quien la consume, busca la eficiencia y que requiere las mismas fases en su construcción (diseño, desarrollo y actuación final) y las mismas áreas funcionales que cualquier programa deportivo (p.140 ).#[i.fas.fa-quote-right.ms-1(style="color:#FFCA00;font-size:28px;top: 15px")]
             .text-end.mt-3
               p.fw-bold.mb-0 Martin (1996).
     

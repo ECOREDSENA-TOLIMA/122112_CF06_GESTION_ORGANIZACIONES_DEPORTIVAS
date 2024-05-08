@@ -51,7 +51,7 @@
             figure
               img(src="@/assets/curso/tema1/5.png" alt="Imagen decorativa")
           .col-lg-8.col-md-6(style="place-self:center;")
-            p.mb-0 El enfoque principal del evento ya sea en personas o no (como en exposiciones caninas, jornadas de vacunación felina, exposiciones ecuestres, donde no son el foco), atraerá a un sector de la sociedad.
+            p.mb-0 El enfoque principal del evento, ya sea en personas o no (como en exposiciones caninas, jornadas de vacunación felina, exposiciones ecuestres, donde no son el foco), atraerá a un sector de la sociedad.
     
     .cont_1_2.mt-4.pt-5.pb-5
       .col-xl-10.m-auto
@@ -63,7 +63,7 @@
             tbody
               tr.bg-white
                 td.p-4 Los eventos son acontecimientos especiales, “iniciativas, sucesos y/o hechos de distinta índole y naturaleza, de presencia pública, promovidos y/o realizados por organizaciones fuera de su dinámica habitual para conseguir distintos objetivos” (Arnaldi,1968, p.84).
-                td.p-4 “Acontecimiento programado, que puede ser de índole cultural, de ocio o naturaleza profesional, sin discriminar necesariamente cuál es el grado de importancia” y suelen contar con nombres únicos que le distingan, que le confieran un carácter de singularidad o autenticidad y, por consiguiente, el ciudadano lo identifique claramente entre el resto de los eventos (Ortega, 2010, p.14).
+                td.p-4 “Acontecimiento programado, que puede ser de índole cultural, de ocio o naturaleza profesional, sin discriminar necesariamente cuál es el grado de importancia” y suelen contar con nombres únicos que le distingan, que le confieran un carácter de singularidad o autenticidad y, por consiguiente, el ciudadano lo identifique claramente entre el resto de los eventos (Ortega, 2010, p.85).
         
         p.mt-4(data-aos="fade-right") Conforme a la tabla anterior, los autores coinciden al definir el evento en incorporar el término de acontecimiento especial, por lo que un evento se considera único e irrepetible, sin importar si este se realiza periódicamente. 
 

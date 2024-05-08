@@ -91,7 +91,7 @@
           .col-8
             img(src='@/assets/curso/tema2/13.png' alt="Imagen decorativa")
         h5.text-center Eventos sostenibles
-        p Estos eventos son un claro objetivo del respeto y cuidado por el medio ambiente. pueden adoptar cualquiera de los formatos que se incluyen en esta lista
+        p Tienen como objetivo el respeto y cuidado al medio ambiente. Pueden tomar diversas formas, como conferencias, ferias o festivales. Se destacan por prácticas ecoamigables como gestión eficiente de residuos y uso de energías renovables, además de promover la conciencia ambiental entre los participantes.
       .tarjeta.color-acento-botones.p-4(style="background-color:#FFCA00;")
         .row.justify-content-center.mb-3
           .col-8
