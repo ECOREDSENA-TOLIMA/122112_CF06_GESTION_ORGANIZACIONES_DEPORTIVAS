@@ -55,7 +55,7 @@
           .col-8
             img(src='@/assets/curso/tema2/7.png' alt="Imagen decorativa")
         h5.text-center Eventos societarios 
-        p Incluyen la junta de accionistas, el consejo administración, otros.
+        p Junta de accionistas, el consejo administración, otros.
       .tarjeta.color-acento-botones.p-4(style="background-color:#FFCA00;")
         .row.justify-content-center.mb-3
           .col-8
