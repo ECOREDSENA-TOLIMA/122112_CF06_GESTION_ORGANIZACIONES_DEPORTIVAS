@@ -61,7 +61,7 @@
           .col-8
             img(src='@/assets/curso/tema2/8.png' alt="Imagen decorativa")
         h5.text-center Eventos comerciales
-        p Dentro de esta categoría, pueden encuadrarse también las ferias, ya sean organizadas por la empresa, o bien, la asistencia a las mismas.
+        p Dentro de esta categoría, pueden encuadrarse también las ferias, ya sean organizadas por la empresa, o bien la asistencia a las mismas.
       .tarjeta.color-acento-botones.p-4(style="background-color:#FFCA00;")
         .row.justify-content-center.mb-3
           .col-8
